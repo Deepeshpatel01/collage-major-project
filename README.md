@@ -1,6 +1,4 @@
-# collage-major-project
-A unified AI platform that integrates multiple smart features and intelligent automation into a single system.
-# Intelio
+# Intellio
 
 An integrated AI project combining multiple intelligent functionalities into one smart system.
 
@@ -8,7 +6,7 @@ An integrated AI project combining multiple intelligent functionalities into one
 
 ## 🚀 Overview
 
-Intelio is an all-in-one AI platform designed to integrate multiple intelligent features into a single unified system. The project focuses on providing smart automation, AI-powered processing, and user-friendly interaction through modern technologies.
+Intellio is an all-in-one AI platform designed to integrate multiple intelligent features into a single unified system. The project focuses on providing smart automation, AI-powered processing, and user-friendly interaction through modern technologies.
 
 This project demonstrates the practical implementation of Artificial Intelligence, Machine Learning, and intelligent automation concepts in a real-world application.
 
@@ -52,7 +50,7 @@ This project demonstrates the practical implementation of Artificial Intelligenc
 ## 📂 Project Structure
 
 ```bash
-Intelio/
+Intellio/
 │── src/
 │── models/
 │── datasets/
@@ -70,13 +68,13 @@ Intelio/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/intelio.git
+git clone https://github.com/yourusername/intellio.git
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd intelio
+cd intellio
 ```
 
 ### Install Dependencies
