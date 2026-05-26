@@ -1,0 +1,29 @@
+{
+  "session_id": "1efcb35b-21b9-425a-9626-d0d4dbe90fcd",
+  "messages": [
+    {
+      "role": "user",
+      "content": "write application for two day leave"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the content writing in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "create image of python"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the content writing, image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "create image of shree ram"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

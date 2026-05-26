@@ -1,0 +1,45 @@
+{
+  "session_id": "fb9432c0-e269-4ab8-a1f5-442edf6ccbc4",
+  "messages": [
+    {
+      "role": "user",
+      "content": "open instagram"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram for you."
+    },
+    {
+      "role": "user",
+      "content": "write application for today leaves"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the content writing in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "open youtube and play maniac song"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you. I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "net worth of elon musk"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "create image of python"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

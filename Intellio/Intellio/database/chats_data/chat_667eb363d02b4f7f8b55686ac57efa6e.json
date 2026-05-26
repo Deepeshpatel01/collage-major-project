@@ -1,0 +1,21 @@
+{
+  "session_id": "667eb363-d02b-4f7f-8b55-686ac57efa6e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "who created you"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open websites and apps, play music and videos, generate images, write content, search Google and YouTube, and analyze camera images, Sir."
+    }
+  ]
+}

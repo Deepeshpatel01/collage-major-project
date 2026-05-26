@@ -1,0 +1,21 @@
+{
+  "session_id": "a72d5b7a-0d0a-438c-ba15-7c128c782f4a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Play some music"
+    },
+    {
+      "role": "assistant",
+      "content": "I've started playing that for you."
+    },
+    {
+      "role": "user",
+      "content": "what is your name"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is Jarvis, Bhanu Pratap Singh."
+    }
+  ]
+}

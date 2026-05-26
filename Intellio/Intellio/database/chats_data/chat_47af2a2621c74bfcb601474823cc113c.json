@@ -1,0 +1,29 @@
+{
+  "session_id": "47af2a26-21c7-4bfc-b601-474823cc113c",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "waht is your name"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "bitcoin price"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is Jarvis, Sir."
+    }
+  ]
+}

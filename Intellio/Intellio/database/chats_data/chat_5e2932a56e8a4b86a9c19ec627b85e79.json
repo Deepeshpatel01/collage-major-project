@@ -1,0 +1,37 @@
+{
+  "session_id": "5e2932a5-6e8a-4b86-a9c1-9ec627b85e79",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hey Jarvis what can you do"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't asked a question yet, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "create image of python"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "open Instagram"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "what is your name"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing that, Sir."
+    }
+  ]
+}

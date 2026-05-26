@@ -1,0 +1,21 @@
+{
+  "session_id": "e030dbe8-26cb-44c5-964a-30ff2d5fd398",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is your name?"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't asked a question yet, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "Question."
+    },
+    {
+      "role": "assistant",
+      "content": "My name is Jarvis, Sir."
+    }
+  ]
+}

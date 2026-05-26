@@ -1,0 +1,53 @@
+{
+  "session_id": "bfb08fa6-2fe3-43d9-bb50-c459cc211ab5",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "hello Jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "shut down my laptop"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Laptop for you."
+    },
+    {
+      "role": "user",
+      "content": "2 minut"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Laptop for you."
+    },
+    {
+      "role": "user",
+      "content": "who is the ceo of the tata group"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure, Sir."
+    },
+    {
+      "role": "user",
+      "content": "create image of python"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    }
+  ]
+}

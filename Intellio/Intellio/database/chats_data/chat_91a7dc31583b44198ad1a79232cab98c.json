@@ -1,0 +1,69 @@
+{
+  "session_id": "91a7dc31-583b-4419-8ad1-a79232cab98c",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Name of the CEO of Tata Group?"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "Name of the CEO of Tata Group?"
+    },
+    {
+      "role": "assistant",
+      "content": "The CEO of Tata Group is Natarajan Chandrasekaran, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Of Tata group is nitrogen Chun."
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "what is my name"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "how to download python"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure, Sir."
+    },
+    {
+      "role": "user",
+      "content": "how to install python 3.10 version"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "How to download Python version 3.10?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not sure, Sir."
+    },
+    {
+      "role": "user",
+      "content": "what is the reason of us and iran war"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    }
+  ]
+}

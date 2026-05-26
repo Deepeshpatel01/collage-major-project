@@ -1,0 +1,117 @@
+{
+  "session_id": "9f524c24-9869-4bc4-8feb-aabc76d06286",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "Hello."
+    },
+    {
+      "role": "assistant",
+      "content": "You still haven't asked a question, Sir. What would you like to know or do?"
+    },
+    {
+      "role": "user",
+      "content": "Just a question."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Forgot to include the actual."
+    },
+    {
+      "role": "assistant",
+      "content": "You still haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "name kya hai tumahra"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "tcs net worth kitni hai"
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "who is your creator"
+    },
+    {
+      "role": "assistant",
+      "content": "You still haven't actually asked a question, Sir. What would you like to know or do?"
+    },
+    {
+      "role": "user",
+      "content": "Who created you?"
+    },
+    {
+      "role": "assistant",
+      "content": "My name is Jarvis, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Who desired you?"
+    },
+    {
+      "role": "assistant",
+      "content": "You haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "To the Arsenal."
+    },
+    {
+      "role": "assistant",
+      "content": "It seems like you forgot to include the actual question, Sir."
+    },
+    {
+      "role": "user",
+      "content": "tumahra creator kon hai"
+    },
+    {
+      "role": "assistant",
+      "content": "You still haven't actually asked a question, Sir. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "who created you"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm an AI assistant, and I was created by a team of developers, Sir."
+    },
+    {
+      "role": "user",
+      "content": "open instagram"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram for you."
+    },
+    {
+      "role": "user",
+      "content": "Open YouTube."
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you."
+    }
+  ]
+}

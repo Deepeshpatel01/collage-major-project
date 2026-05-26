@@ -1,0 +1,53 @@
+{
+  "session_id": "ec019d2e-15cf-4fb3-966f-4820a6e30703",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, open websites and apps, play music and videos, generate images, write content, search Google and YouTube, and analyze camera images, Sir."
+    },
+    {
+      "role": "user",
+      "content": "generate image of elon mask"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "open youtube"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you."
+    },
+    {
+      "role": "user",
+      "content": "open ms ward"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Ms Word for you."
+    },
+    {
+      "role": "user",
+      "content": "open google"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "search for geekforgeeks"
+    },
+    {
+      "role": "assistant",
+      "content": "I've run the search for you."
+    }
+  ]
+}
